@@ -13,7 +13,9 @@ CORE STRENGTHS
 Product & Program Management (Semiconductor/Networking) • PCIe/SmartNIC/DPU Architecture • Host Networking Platforms • Proactive Cross-Functional Leadership • Measurable KPI & Business Impact and Customer Value • R&D Engineering (NIC/PCIe/Firmware) • Executive & Stakeholder Communication • Cloud-Native Platforms (AWS/K8s) • 5G/O-RAN Architecture • PoC & RFI/RFP Leadership • Vendor & Partner Coordination • Risk, RCA & Escalation Management
 
 PROFESSIONAL EXPERIENCE
+
 Senior PM / Cloud Platform Architect, Parallel Wireless	             2023 – Present
+
 •	Architected cloud-native infrastructure for Trusted RIC (RAN Intelligent Controller) deployments.
 Achieved 99% reliability across carrier-grade, multi-vendor environments.
 •	Led cross-functional teams across R&D, QA, and field operations. 
@@ -24,7 +26,9 @@ Cut platform TCO ~ 30% without touching SLAs.
 Cut engineering cycle time ~ 40%.
 •	Automated cloud infrastructure deployments.
 Eliminated manual configuration errors across multi-vendor environments.
+
 Technical PM & System Architect – HW Acceleration & AI Compute Platforms, Silicom	         2020 – 2023
+
 •	Led the product-planning, customer engagement and GTM, Including both Outbound and Inbound work.
 •	Delivered 4 PCIe-based timing/synchronization products to GA across 4 Tier-1 customers with 95% integration success. Owned program definition, design, and system integration aligned to ITU-T, IEEE 1588 (PTP), SyncE, and O-RAN.
 •	Directed host and NIC PTP architecture (GM/BC/TSC design) across hardware, firmware, and validation teams.
@@ -34,7 +38,9 @@ Enabled reliable multi-vendor time sync.
 Shortened customer ramp-up time ~30%.
 •	Led technical escalations for Tier-1/2 global accounts.
 Cut post-launch escalations ~20% through root-cause analysis and proactive remediation.
+
 Technical Program Lead – Cloud-Native Networking & Edge Compute Platforms, Silicom	            2014 – 2020
+
 •	Owned end-to-end product roadmap for uCPE and virtualized network solutions.
 Drove integrations with global software vendors and hyperscaler-aligned platforms.
 •	Directed cross-functional integration programs spanning Intel NICs, virtualization stacks, and cloud-native platforms.
@@ -45,6 +51,7 @@ Unlocked new customer deployments.
 Kept multi-quarter programs on schedule.
 
 System Engineer – Networking and Linux Platforms, Silicom	2012 – 2014
+
 •	Coordinated on-site deployment and bring-up of Dell and Supermicro server infrastructure.
 Enabled customer PoCs and field trials.
 •	Led hands-on integration of Intel DPDK, FM10K, and XL710-based NICs and switching technologies for customer deployments.
@@ -58,6 +65,7 @@ Product Manager & Pre-Sale – Spirent Test Center & Measurement Portfolio, Byne
 •	Presented programs and solutions to VP R&D, QA Directors, and senior engineers — drove executive-level buy-in.
 
 EARLIER EXPERIENCE
+
 •	Pre/Post-Sales Engineer, Telrad (2006 – 2010)
 •	Technical Pre-Sales / Consultant, UniLink (2004 – 2006)
 •	Hardware Engineer, ADC-Teledata (2000 – 2003)
